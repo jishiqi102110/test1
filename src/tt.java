@@ -1,7 +1,8 @@
 
 public class tt {
-gdrg
-fds 
-test1页修改了些东
+public static void main(String[] args){
 
+   String ad="s";
+
+   System.out.println(ad);
 }
